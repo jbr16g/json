@@ -4,17 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/6/2018
 
 ### Student Name:  
-(First and Last Name)
+Jason Randall
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Build an application that displays information about movies using jQuery and AJAX methods to parse JSON data returned from the TheMovieDB API.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ide.c9.io/jbr16g/randall_lesson8_json
 
 ### Lessons Learned in the Assignment:
 1. An event occurs in a browser that creates an XMLHttpRequest object and sends an HttpRequest to a web server. 
